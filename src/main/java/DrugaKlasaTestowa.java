@@ -1,0 +1,2 @@
+public class DrugaKlasaTestowa {
+}
